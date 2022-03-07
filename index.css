@@ -1,0 +1,71 @@
+
+
+.body{
+    background-color: rgb(230, 226, 219);
+}
+
+
+.main{
+    background: url(./images/index.png)no-repeat;
+    background-size: cover;
+    height: 480px;
+    background-position: 50% 50%;
+    width: 90%;
+    border-radius: 55px;
+    margin-top: 85px;
+    margin-left: 95px;
+    margin-right: 25px;
+    
+}
+
+
+.main h1{
+    font-size: 3rem;
+    font-weight: 700;
+    color: white;
+    
+}
+
+
+
+
+
+.btn1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: rgb(92, 225, 230);
+    color: white;
+    font-weight: 700;
+    border-radius: 70px;
+} 
+
+
+.form-control{
+    height: 40px;
+    width: 500px;
+    border-radius: 60px;
+    outline: none;
+    border: solid 3px green;
+}
+
+.btnS{
+    height: 40px;
+    width: 120px;
+    border-radius: 60px;
+    border: solid 3px green;
+    outline:green;
+    font-weight: 700;
+    
+}
+
+
+.row{
+    margin-top: 35px;
+    margin-left: 75px;
+    margin-right: 25px;
+}
+
+
+
