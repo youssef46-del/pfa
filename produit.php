@@ -14,7 +14,7 @@ $categories=getAllcategories();
 
 
 ?>
-
+   
 
 
 
@@ -35,7 +35,7 @@ $categories=getAllcategories();
         include "include/header.php";
 
       ?>
-
+  
          
       <div class="row col-12 mt-4"> 
       
