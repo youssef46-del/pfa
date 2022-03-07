@@ -279,6 +279,8 @@ foreach($produits as $index => $produit){  ?>
       <div class="modal-body">
         
 
+      
+
        <form action="modifier.php" method="POST" >
        <input type="hidden" value="<?php echo $produit['id'] ; ?>" name="idp" /> 
 
